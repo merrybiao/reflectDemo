@@ -6,6 +6,11 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
+/**
+ * ·´Éä°¸Àý
+ * @author Administrator
+ *
+ */
 public class Apple {
 
     private int price;
